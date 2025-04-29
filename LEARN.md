@@ -16,9 +16,5 @@ Fitness website to be linked with a fitness app. Started as a school project.
 * Contains HOME, ABOUT, SERVICES, CLASSES, SCHEDULE ,PRICE and many other sections.
 
 
-[`Click the Demo Button  and View Live Project`](https://mian-ali.github.io/GymWebsite/)
+[`Click the Demo Button  and View Live Project`]https://github.com/Nikhil-kumar490/Nik_fit-Club
 
-
-## `Project Live Url`:
-
-(https://mian-ali.github.io/GymWebsite/)
